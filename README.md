@@ -1,2 +1,2 @@
 # hello-world
-Tutorial repository
+Learning to work with github before beasting through CleatWiz.
